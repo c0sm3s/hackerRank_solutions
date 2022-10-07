@@ -31,7 +31,7 @@ def climbingLeaderboard(ranked, player):
         if added == 0: 
             pos.append(1)
         added = 0
-    # print(ranks)
+    print(ranks)
     return pos
 r = [90,70,70,60,50,50,40]
 # r = [100,100,50,40,20,10]
